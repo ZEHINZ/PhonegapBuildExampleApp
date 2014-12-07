@@ -17,7 +17,7 @@
  * under the License.
  */
 
-var GOOGLE_PROJECT_ID = "629074643251";
+var GOOGLE_PROJECT_ID = " amanokerim001";
 var PUSHAPPS_APP_TOKEN = "0a9544a2-2aa6-43a4-9c03-15412279c163";
 
 /**
